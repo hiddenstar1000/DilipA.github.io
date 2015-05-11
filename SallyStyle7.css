@@ -1,0 +1,26 @@
+body {
+    background-color: white;
+}
+h1 {
+    color: black;
+    margin-left: 20px;
+    font-family: verdana;
+}
+
+h2 {
+    color: black;
+    margin-left: 20px;
+    font-family: verdana;
+} 
+
+p {
+    color: black;
+    margin-left: 20px;
+    font-family: Hiragino Kaku Gothic Pro W3;
+}
+
+p.english {
+    color: black;
+    margin-left: 20px;
+    font-family: verdana;
+}

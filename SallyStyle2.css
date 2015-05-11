@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+h2 {
+    color: lightgray;
+    margin-left: 20px;
+    font-family: Hiragino Maru Gothic Pro;
+} 
+
+h2.english {
+    color: lightgray;
+    margin-left: 20px;
+    font-family: lucida sans unicode;
+} 
+
+p {
+    color: lightgray;
+    margin-left: 20px;
+    font-family: Hiragino Maru Gothic Pro;
+}
+
+p.english {
+    color: lightgray;
+    margin-left: 20px;
+    font-family: lucida sans unicode;
+}

@@ -1,0 +1,27 @@
+body {
+    background-color: white;
+}
+
+h2 {
+    color: black;
+    margin-left: 20px;
+    font-family: Hiragino Mincho Pro W3;
+} 
+
+h2.english {
+    color: black;
+    margin-left: 20px;
+    font-family: baskerville;
+} 
+
+p {
+    color: black;
+    margin-left: 20px;
+    font-family: Hiragino Mincho Pro W3;
+}
+
+p.english {
+    color: black;
+    margin-left: 20px;
+    font-family: baskerville;
+}
