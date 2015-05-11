@@ -1,6 +1,13 @@
 body {
     background-color: black;
 }
+
+h1 {
+    color: lightgray;
+    margin-left: 20px;
+    font-family: lucida sans unicode;
+} 
+
 h2 {
     color: lightgray;
     margin-left: 20px;
